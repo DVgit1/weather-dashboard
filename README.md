@@ -21,3 +21,8 @@ The Weather Dashboard is a web application that allows users to search for curre
 1. Clone the repository:
    ```bash
    git clone https://github.com/DVgit1/weather-dashboard.git
+
+## Usage
+1. Open index.html in your web browser.
+2. Enter a city name in the search bar and click the "Search" button.
+3. The current weather conditions and 5-day forecast for the entered city will be displayed.
