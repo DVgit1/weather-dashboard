@@ -27,3 +27,4 @@ The Weather Dashboard is a web application that allows users to search for curre
 2. Enter a city name in the search bar and click the "Search" button.
 3. The current weather conditions and 5-day forecast for the entered city will be displayed.
 Updated on 2024-10-10 10:57:48.591248
+Updated on 2024-10-10 11:00:04.744776
